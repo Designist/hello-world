@@ -1,2 +1,3 @@
 # hello-world
-A sample repository for learning the basics of GitHub.
+
+Hello, world! With help from https://guides.github.com/activities/hello-world/.
